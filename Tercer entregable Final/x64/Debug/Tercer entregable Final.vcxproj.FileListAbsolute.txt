@@ -1,0 +1,2 @@
+C:\Users\Gonzalo\OneDrive\Escritorio\progras ciclo 3\Tercer entregable Final\Tercer entregable Final\x64\Debug\Tercer entregable Final.vcxproj.AssemblyReference.cache
+C:\Users\Gonzalo\OneDrive\Escritorio\progras ciclo 3\Tercer entregable Final\Tercer entregable Final\x64\Debug\Tercer entregable Final.vcxproj.SuggestedBindingRedirects.cache
